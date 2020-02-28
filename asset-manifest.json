@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/opeqe/static/css/main.bb093bc1.chunk.css",
+    "main.css": "/opeqe/static/css/main.e0775b58.chunk.css",
     "main.js": "/opeqe/static/js/main.c546abd1.chunk.js",
     "main.js.map": "/opeqe/static/js/main.c546abd1.chunk.js.map",
     "runtime-main.js": "/opeqe/static/js/runtime-main.b59637d5.js",
@@ -9,10 +9,10 @@
     "static/js/2.70411c35.chunk.js": "/opeqe/static/js/2.70411c35.chunk.js",
     "static/js/2.70411c35.chunk.js.map": "/opeqe/static/js/2.70411c35.chunk.js.map",
     "index.html": "/opeqe/index.html",
-    "precache-manifest.41e74d0efdc7c254a8d7ceae67b187db.js": "/opeqe/precache-manifest.41e74d0efdc7c254a8d7ceae67b187db.js",
+    "precache-manifest.365c01480df142d30cef36a75d098567.js": "/opeqe/precache-manifest.365c01480df142d30cef36a75d098567.js",
     "service-worker.js": "/opeqe/service-worker.js",
     "static/css/2.0bbf5521.chunk.css.map": "/opeqe/static/css/2.0bbf5521.chunk.css.map",
-    "static/css/main.bb093bc1.chunk.css.map": "/opeqe/static/css/main.bb093bc1.chunk.css.map",
+    "static/css/main.e0775b58.chunk.css.map": "/opeqe/static/css/main.e0775b58.chunk.css.map",
     "static/js/2.70411c35.chunk.js.LICENSE": "/opeqe/static/js/2.70411c35.chunk.js.LICENSE",
     "static/media/App.css": "/opeqe/static/media/salad6.36c0f36a.jpg",
     "static/media/logo.png": "/opeqe/static/media/logo.8384a07c.png",
@@ -23,7 +23,7 @@
     "static/js/runtime-main.b59637d5.js",
     "static/css/2.0bbf5521.chunk.css",
     "static/js/2.70411c35.chunk.js",
-    "static/css/main.bb093bc1.chunk.css",
+    "static/css/main.e0775b58.chunk.css",
     "static/js/main.c546abd1.chunk.js"
   ]
 }
