@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "/opeqe/static/css/main.ca15b657.chunk.css",
+    "main.js": "/opeqe/static/js/main.f8705ddc.chunk.js",
+    "main.js.map": "/opeqe/static/js/main.f8705ddc.chunk.js.map",
+    "runtime-main.js": "/opeqe/static/js/runtime-main.b59637d5.js",
+    "runtime-main.js.map": "/opeqe/static/js/runtime-main.b59637d5.js.map",
+    "static/css/2.0bbf5521.chunk.css": "/opeqe/static/css/2.0bbf5521.chunk.css",
+    "static/js/2.ddc896d0.chunk.js": "/opeqe/static/js/2.ddc896d0.chunk.js",
+    "static/js/2.ddc896d0.chunk.js.map": "/opeqe/static/js/2.ddc896d0.chunk.js.map",
+    "index.html": "/opeqe/index.html",
+    "precache-manifest.0c58cef0e5bcdc4436ff26ab39c4714b.js": "/opeqe/precache-manifest.0c58cef0e5bcdc4436ff26ab39c4714b.js",
+    "service-worker.js": "/opeqe/service-worker.js",
+    "static/css/2.0bbf5521.chunk.css.map": "/opeqe/static/css/2.0bbf5521.chunk.css.map",
+    "static/css/main.ca15b657.chunk.css.map": "/opeqe/static/css/main.ca15b657.chunk.css.map",
+    "static/js/2.ddc896d0.chunk.js.LICENSE": "/opeqe/static/js/2.ddc896d0.chunk.js.LICENSE",
+    "static/media/App.css": "/opeqe/static/media/salad6.36c0f36a.jpg",
+    "static/media/logo.png": "/opeqe/static/media/logo.8384a07c.png",
+    "static/media/logo2.png": "/opeqe/static/media/logo2.9d78e988.png",
+    "static/media/slick-theme.css": "/opeqe/static/media/slick.f97e3bbf.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.b59637d5.js",
+    "static/css/2.0bbf5521.chunk.css",
+    "static/js/2.ddc896d0.chunk.js",
+    "static/css/main.ca15b657.chunk.css",
+    "static/js/main.f8705ddc.chunk.js"
+  ]
+}
